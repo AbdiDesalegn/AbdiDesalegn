@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Abdi Desalegn
 
-**Computer Science & Engineering Graduate**  
-Passionate about bridging computational solutions with real-world problems and exploring the wonders of physics and mathematics!  
+**Pro Web & Mobile Developer | Computer Science & Engineering Graduate**  
+Building modern, scalable web and mobile applications with cutting-edge technologies.  
 
 ---
 
@@ -33,5 +33,5 @@ Passionate about bridging computational solutions with real-world problems and e
 ---
 
 ## 🔬 Physics & Computational Mathematics Enthusiast
-Passionate about **computational physics, quantum mechanics, and mathematical modeling**.  
-I enjoy applying **simulations, numerical methods, and ML techniques** to explore scientific problems.
+Also passionate about **computational physics, quantum mechanics, and mathematical modeling**.  
+I enjoy applying **simulations and ML techniques** for scientific exploration — but my core focus is **professional development for clients**.
