@@ -18,6 +18,7 @@ Passionate about bridging computational solutions with real-world problems and e
 ![React Native](https://img.shields.io/badge/React_Native-90-blue?logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-85-purple?logo=redux&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-80-yellow?logo=firebase&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-75-lightgrey?logo=expo&logoColor=black)
 
 ### 🤖 ML & AI
 ![Python](https://img.shields.io/badge/Python-95-blue?logo=python&logoColor=white)
