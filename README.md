@@ -1,104 +1,36 @@
-# Hello, I'm Abdi Desalegn 👋
+# 👋 Hello, I'm Abdi Desalegn
 
-## Physics & Computer Science Engineer
-**Bridging the gap between theoretical physics and practical software development.**  
-I create innovative solutions combining computational physics, machine learning, and modern web technologies.
-
-[Explore My Work](#featured-projects) | [Download CV](#)
+**Computer Science & Engineering Graduate**  
+Passionate about bridging computational solutions with real-world problems and exploring the wonders of physics and mathematics!  
 
 ---
 
-## About Me
-**Passionate Developer & Creative Problem Solver**
+## 💻 Tech Stack
 
-I'm a Computer Science and Engineering graduate from **Adama Science and Technology University (2015)** with a deep passion for physics, mathematics, and cutting-edge technology. I specialize in creating innovative solutions that bridge the gap between theoretical physics and practical software development.
+### 🌐 Web
+![React](https://img.shields.io/badge/React-18-blue?logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-18-green?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-88-black?logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-82-green?logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-85-green?logo=mongodb&logoColor=white)
 
-My journey combines my love for science documentaries and futuristic design with expertise in **MERN stack development, React Native mobile apps, and machine learning applications for physics**. I spend my free time immersed in scientific content and building computational tools for physics research.
+### 📱 Mobile
+![React Native](https://img.shields.io/badge/React_Native-90-blue?logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-85-purple?logo=redux&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-80-yellow?logo=firebase&logoColor=white)
 
----
+### 🤖 ML & AI
+![Python](https://img.shields.io/badge/Python-95-blue?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-85-orange?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-80-red?logo=pytorch&logoColor=white)
 
-## 🔬 Physics & Science
-Passionate about computational physics, quantum mechanics, and scientific simulations.
-
-## 🤖 Machine Learning
-Specialized in ML applications for physics, mathematics, and data analysis.
-
-## 🔒 Cybersecurity
-Security enthusiast with expertise in web application security and network protection.
-
-## 💻 Full-Stack Development
-Expert in MERN stack, Django, React Native, and modern web technologies.
-
----
-
-## 📊 Experience & Achievements
-- **3+ Years Experience**  
-- **15+ Physics Simulations**  
-- **12+ Web Applications**  
-- **10+ ML Models**
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-90-red?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-75-blue?logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-95-blue?logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🛠️ Skills & Expertise
-
-### 🌐 Web Development
-- React.js – 95%  
-- Node.js – 90%  
-- Express.js – 88%  
-- MongoDB – 85%  
-- Django – 82%  
-- JavaScript – 95%  
-- HTML5/CSS3 – 95%  
-- TypeScript – 85%  
-
-### 📱 Mobile Development
-- React Native – 90%  
-- Redux – 85%  
-- Firebase – 80%  
-- Expo – 75%  
-- Three.js – 70%  
-
-### 🤖 Machine Learning & AI
-- Python – 95%  
-- TensorFlow – 85%  
-- PyTorch – 80%  
-- NumPy – 90%  
-- Pandas – 88%  
-- Scikit-learn – 85%  
-- Matplotlib – 82%  
-
-### 🔬 Physics & Mathematics
-- Computational Physics – 90%  
-- Quantum Mechanics – 85%  
-- Mathematical Modeling – 88%  
-- SciPy – 85%  
-- OpenGL – 75%  
-- C++ – 80%  
-
-### 🔒 Cybersecurity
-- Network Security – 80%  
-- Web Security – 85%  
-- Penetration Testing – 75%  
-- Cryptography – 78%  
-- Security Analysis – 82%  
-
-### 🛠️ Tools & Technologies
-- Git/GitHub – 90%  
-- Docker – 75%  
-- AWS – 70%  
-- Linux – 85%  
-- Jupyter Notebooks – 88%  
-- VS Code – 95%  
-
----
-
-## Featured Projects
-A showcase of my recent work and creative solutions:
-
-- **All Projects (8)**  
-- **Physics & Science (3)**  
-- **Web Development (2)**  
-- **AI/ML (1)**  
-- **Mobile Apps (1)**  
-- **Cybersecurity (1)**
-
+## 🔬 Physics & Computational Mathematics Enthusiast
+Passionate about **computational physics, quantum mechanics, and mathematical modeling**.  
+I enjoy applying **simulations, numerical methods, and ML techniques** to explore scientific problems.
