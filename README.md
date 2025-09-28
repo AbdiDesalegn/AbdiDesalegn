@@ -32,10 +32,10 @@ Expert in MERN stack, Django, React Native, and modern web technologies.
 ---
 
 ## 📊 Experience & Achievements
-- **8+ Years Experience**  
-- **50+ Physics Simulations**  
-- **30+ Web Applications**  
-- **15+ ML Models**
+- **3+ Years Experience**  
+- **15+ Physics Simulations**  
+- **12+ Web Applications**  
+- **10+ ML Models**
 
 ---
 
